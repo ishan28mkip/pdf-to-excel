@@ -6,8 +6,6 @@ python pdf_to_excel.py
 
 ## Usage
 
-Here's how you can use this function:
-
 ```shell
 python pdf_to_excel.py 'path_to_pdf_file.pdf' 'path_to_excel_file.xlsx'
 ```
@@ -18,9 +16,9 @@ or to convert all pdf files in the folder to excel files
 python pdf_to_excel.py
 ```
 
-Replace `path_to_pdf_file.pdf`with the path to the PDF file you want to convert, and replace `path_to_excel_file.xlsx`` with the path where you want to save the Excel file.
+Replace `path_to_pdf_file.pdf` with the path to the PDF file you want to convert, and replace `path_to_excel_file.xlsx` with the path where you want to save the Excel file.
 
-## Dependencies :package:
+## Dependencies
 
 - `tabula-py`: A simple wrapper for Tabula, which can read tables in a PDF.
 - `pandas`: A powerful data manipulation library.
