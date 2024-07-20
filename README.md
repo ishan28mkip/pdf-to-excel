@@ -36,3 +36,6 @@ pip3 install tabula-py pandas openpyxl
 
 ## Works with: 
 1. Federal Bank PDF account statements(Last checked: 20 July 2024)
+
+## TODO:
+1. Make GUI version
