@@ -30,6 +30,9 @@ You can install these dependencies with pip:
 pip3 install tabula-py pandas openpyxl
 ```
 
+## Based on:
+https://github.com/LadyKerr/pdf-to-excel
+
 ## Features:
 1. Converts all pdf files in the folder to excel files
 2. Merges all tables with same column names
