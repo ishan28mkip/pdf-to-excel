@@ -38,7 +38,8 @@ pip3 install tabula-py pandas openpyxl
 1. Federal Bank PDF account statements(Last checked: 20 July 2024)
 
 ## TODO:
-1. Make GUI version
+1. Make column header detection better somehow
+2. Make GUI version
 
 ## Based on:
 https://github.com/LadyKerr/pdf-to-excel
